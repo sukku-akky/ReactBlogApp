@@ -1,0 +1,8 @@
+.blogs{
+    display: grid; /* Use grid layout */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Create a responsive grid with a minimum width */
+    gap: 20px; /* Space between grid items */
+    padding: 20px; /* Padding around the grid */
+
+
+}
